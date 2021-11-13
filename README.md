@@ -1,4 +1,4 @@
-Once you clone this repository you can install it by running npm install.
+Once you clone this repository you can install it by running npm install then run the server with npm run dev.
 
 The main colors I will be using to design this website is :
 - ![#f03c15](https://via.placeholder.com/15/41729F/000000?text=+) `#41729F` - Midnight blue
