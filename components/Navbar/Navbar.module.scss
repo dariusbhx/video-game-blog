@@ -1,0 +1,33 @@
+$midnight-blue: #41729F;
+$dark-blue: #274472;
+$baby-blue: #C3E0E5;
+
+.container{
+    display: flex;
+    background-color: $dark-blue ;
+    height: 10vh;
+    align-items: center;
+    &:hover{
+        cursor: pointer;
+    }
+}
+
+.btn{
+    color: white;
+    h1{
+        font-size: 2rem;
+        margin-left: 2rem;
+    }
+    a{
+        
+    }
+}
+
+.rightContainer{
+    margin-left: auto;
+    margin-right: 2rem;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
