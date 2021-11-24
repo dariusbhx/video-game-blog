@@ -8,10 +8,14 @@ module.exports = {
       lg: '992px',
       xl: '1200px'
     },
-    colors: {
-
+    colors:{
+      blue:{
+        midnight: '#41729F',
+        dark: '#274472',
+        babyBlue: '#C3E0E5'
+      }
     }
-    extend: {},
+    
   },
   variants: {
     extend: {},
